@@ -1,3 +1,5 @@
 [build]
   publish = "site"
   functions = "functions"
+  
+  FAUNADB_SERVER_SECRET="fnADmF5lhmACAEVlt9WfhIKNq1PzNfIElo2Z6_Z8"
